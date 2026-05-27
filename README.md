@@ -1,4 +1,3 @@
-# hackthon_200
 # 🍎 PredictaShelf – Complete Setup Guide
 
 ## 📁 Project Structure
